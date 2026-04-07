@@ -1,0 +1,18 @@
+{
+  "description": "Mock dataset of 50 extreme startup salaries (USD/year). Intentionally skewed to reflect real-world startup compensation inequality: a few founders/executives earn astronomically high salaries while most employees earn modest wages.",
+  "currency": "USD",
+  "year": 2024,
+  "salaries": [
+    42000, 45000, 47500, 48000, 50000,
+    51000, 52500, 53000, 55000, 56000,
+    58000, 60000, 62000, 63500, 65000,
+    67000, 68000, 70000, 72000, 74000,
+    75000, 76500, 78000, 80000, 82000,
+    85000, 88000, 90000, 92000, 95000,
+    98000, 100000, 105000, 110000, 115000,
+    120000, 130000, 145000, 160000, 175000,
+    200000, 230000, 275000, 320000, 400000,
+    520000, 750000, 1200000, 3500000, 12000000
+  ],
+  "roles_note": "Salaries range from junior support staff (~$42k) to co-founder/CEO ($12M including equity). The top 4 earners are C-suite executives, reflecting typical startup compensation disparity."
+}
